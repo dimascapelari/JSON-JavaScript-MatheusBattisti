@@ -1,0 +1,16 @@
+[
+    {
+        "nome": "Dimas",
+        "idade": 40,
+        "esta_trabalhando": true,
+        "detalhes_profissao": {
+            "profissao": "Programador",
+            "empresa": "ACSP"
+        },
+        "hobbies": [
+            "Pedalar",
+            "Programar",
+            "Estudar"
+        ]
+    }
+]
